@@ -1,0 +1,6 @@
+{
+  "name": "Móvana — Connecting Thelas",
+  "description": "Hyperlocal live map marketplace connecting neighborhood street-food thelas, fresh vegetable carts, customers, and delivery partners.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
